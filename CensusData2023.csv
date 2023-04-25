@@ -1,0 +1,9 @@
+﻿22,Private,?,Some-college,?, Never-married,Other-service,?,White,Female,0,0,28,United-States,<100k
+23,Private,?,Bachelors,?,Never-married,Other-service,?,White,Male,0,0,40,United-States,<100k
+0,Private,?,Bachelors,?,Never-married,Prof-specialty,?,White,Male,0,0,20,United-States,<100k
+20, Self-emp-inc,?,Some-college,?,Never-married,Other-service,?,White,Female,0,0,20,United-States,<100k
+50,Private,?,Masters,?, Married-civ-spouse,Other-service,?,White,Female,0,0,80,United-States,>=100k
+49,State-gov,?,Masters,?,Married-civ-spouse,Prof-specialty,?,White,Male,0,0,70,United-States,<100k
+24,State-gov,?,Some-college,?,Never-married, Tech-support,?,White,Male,0,0,15,United-States,<100k
+22,Private,?,Bachelors,?,Never-married,Sales,?,Other,Male,0,0,52,United-States,<100k
+23,Private,?,Bachelors,?,Never-married,Sales,?,Other,Male,0,0,80,Cuba,>=100k
